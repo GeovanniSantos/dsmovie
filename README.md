@@ -15,7 +15,7 @@ A aplicação consiste em avaliação de preferência de filmes, onde o usuário
 
 # Tecnologias utilizadas
 ## Back end
-- Java JDK 17
+- Java JDK 17 
 - Spring Boot
 - Web / JPA / H2 / Postgres / Security
 - Maven
